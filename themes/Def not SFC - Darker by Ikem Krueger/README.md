@@ -1,0 +1,11 @@
+# Def not SFC - Darker
+A Darker SFC theme for Onion OS
+
+![Preview](preview.png)
+
+Theme based on [Def not SFC - Dark by Danilo Colasso](themes/Def%20not%20SFC%20-%20Dark%20by%20Danilo%20Colasso).
+
+Icons based on [Milk White by Segich](themes/Milk%20White%20by%20Segich).
+
+Sounds from [Miyoo Valley by dragon-fruity](themes/Miyoo%20Valley%20(2-pack)%20by%20dragon-fruity/Miyoo%20Valley%20by%20dragon-fruity/).
+
