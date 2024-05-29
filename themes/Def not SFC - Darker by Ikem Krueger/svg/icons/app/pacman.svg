@@ -14,7 +14,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:showpageshadow="2"
@@ -22,7 +22,7 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="16.416667"
-     inkscape:cx="23.969543"
+     inkscape:cx="24"
      inkscape:cy="24"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
@@ -44,12 +44,12 @@
      id="d"
      class="l"
      d="m35.5934,35.6412v-1.8749c0-.2918-.2365-.5284-.5282-.5284-.0927,0-.1838.0244-.2641.0708l-3.7864,2.1866c-.3802.2195-.6144.6252-.6143,1.0643v2.0806"
-     style="stroke-width:2;stroke-dasharray:none;fill:#ffffff;stroke:none" />
+     style="stroke:none;fill:#ffffff" />
   <path
      id="e"
      class="l"
      d="m29.5211,30.203v.5415c0,.5155.4177.9334.9332.9334.1639,0,.3248-.0431.4667-.1251l4.2427-2.3449c.4398-.254.7108-.7234.7108-1.2314v-.6975c0-.4974-.4031-.9007-.9004-.9007-.1581,0-.3133.0416-.4502.1207l-4.2057,2.3232c-.4931.2848-.7969.8111-.7969,1.3807h0"
-     style="stroke-width:2;stroke-dasharray:none;fill:#ffffff;stroke:none" />
+     style="stroke:none;fill:#ffffff" />
   <path
      id="f"
      class="l"
@@ -59,7 +59,7 @@
      id="g"
      class="l"
      d="m21.2011,25.8191l-5.1737-2.9018v4.6412l5.1737,2.9018v-4.6412h0"
-     style="stroke-width:2;stroke-dasharray:none;fill:#ffffff;stroke:none" />
+     style="stroke:none;fill:#ffffff" />
   <path
      id="h"
      class="l"

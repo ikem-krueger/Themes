@@ -5,26 +5,26 @@
    viewBox="0 0 48 48"
    version="1.1"
    sodipodi:docname="retroarch.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
    inkscape:export-filename="retroarch.png"
    inkscape:export-xdpi="148"
    inkscape:export-ydpi="148"
-   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="16.416667"
-     inkscape:cx="26.284264"
-     inkscape:cy="23.025381"
+     inkscape:zoom="11.608336"
+     inkscape:cx="15.463025"
+     inkscape:cy="20.933232"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -36,20 +36,12 @@
     <style
        id="style1">.cls-1{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;}</style>
   </defs>
-  <rect
-     style="fill:#ffffff;stroke-width:1;stroke-dasharray:none"
-     id="rect2"
-     width="4.3699999"
-     height="4.4099998"
-     x="16.629999"
-     y="18.709999" />
-  <rect
-     style="fill:#ffffff;stroke-width:1;stroke-dasharray:none"
-     id="rect3"
-     width="4.4000001"
-     height="4.4099998"
-     x="26.969999"
-     y="18.709999" />
+  <path
+     class="cls-1"
+     d="m 16.63,18.71 v 4.41 H 21 v -4.41 z m 10.34,0 v 4.41 h 4.4 v -4.41 z"
+     id="path2"
+     style="stroke:none;stroke-width:2;stroke-dasharray:none;fill:#ffffff"
+     sodipodi:nodetypes="cccccccccc" />
   <path
      class="cls-1"
      d="m 15.74,12.05 h 3.12 l 2.53,4.38 h 5.22 l 2.53,-4.38 h 3.12 l -2.53,4.38 h 3.94 l 1.73,6.48 h 4.11 l -1.61,-6 h 3.16 l 1.62,6 0.82,3.09 h -7.28 l 1.32,4.9 h -5 l 3.43,5.95 H 31.41 L 28,30.87 h -8 l -3.43,5.95 h -4.5 l 3.43,-5.95 h -5 L 11.78,26 H 4.5 l 0.82,-3.06 1.62,-6 h 3.16 l -1.61,6 h 4.11 l 1.73,-6.48 h 3.94 l -2.53,-4.38 z"
